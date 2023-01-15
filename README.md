@@ -2,7 +2,7 @@
 
 This repository comprises of three projects built with Redux Toolkit, RTK Query & TypeScript
 
-### [Blog Using Redux Async Thunk, Entity Adapter API & Axios](https://github.com/ikramdeveloper/redux-toolkit-typescript/blog-project)
+### [Blog Using Redux Async Thunk, Entity Adapter API & Axios](https://github.com/ikramdeveloper/redux-toolkit-typescript/tree/master/blog-project)
 
 > Setting up project using npm & vite
 
@@ -18,7 +18,7 @@ This repository comprises of three projects built with Redux Toolkit, RTK Query 
 
 ---
 
-### [Todo List Using Redux RTK Query](https://github.com/ikramdeveloper/redux-toolkit-typescript/todo-list-rtk)
+### [Todo List Using Redux RTK Query](https://github.com/ikramdeveloper/redux-toolkit-typescript/tree/master/todo-list-rtk)
 
 > Setting up project with npm & vite
 
@@ -28,7 +28,7 @@ This repository comprises of three projects built with Redux Toolkit, RTK Query 
 
 ---
 
-### [Blog Using Redux RTK Query & Entity Adapter API](https://github.com/ikramdeveloper/redux-toolkit-typescript/blog-project-rtk-query)
+### [Blog Using Redux RTK Query & Entity Adapter API](https://github.com/ikramdeveloper/redux-toolkit-typescript/tree/master/blog-project-rtk-query)
 
 > Setting up project using npm & vite
 
